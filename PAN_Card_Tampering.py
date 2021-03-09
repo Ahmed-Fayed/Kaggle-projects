@@ -97,6 +97,8 @@ plt.imshow(tampered)
 # print('Original Format Image')
 # plt.imshow(Image.fromarray(original))
 # plt.imshow(Image.fromarray(tampered))
+
+# All the black in ( diff image ) in the image is the diffrence between two images
 plt.imshow(diff)
 
 plt.imshow(thresh)
