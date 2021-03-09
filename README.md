@@ -1,2 +1,2 @@
-# Kaggle-projects
+# Practice Projects 
 Kaggle Competitions Projects 
