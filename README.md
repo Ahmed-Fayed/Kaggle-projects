@@ -1,4 +1,5 @@
 # Practice Projects 
-1- Titanic Project from Kaggle
 
-2- PAN Card Tampering Detection from udemy
+1- Titanic Project from Kaggle ( master branch )
+
+2- PAN Card Tampering Detection from udemy ( master-2 branch )
