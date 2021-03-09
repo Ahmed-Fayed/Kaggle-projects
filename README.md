@@ -4,4 +4,4 @@
 
 2- PAN Card Tampering Detection from udemy ( master-2 branch )
 
-3- Dog Breed Prediction Model
+3- Dog Breed Prediction Model ( master-3 branch )
